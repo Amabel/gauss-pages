@@ -1,9 +1,9 @@
 {
     "meta": {
-        "stationName": "ときわ台",
+        "station_name": "ときわ台",
         "node": "00000086",
-        "lineName": "東武東上線",
-        "lineId": "00000808",
+        "line_name": "東武東上線",
+        "line_id": "00000808",
         "color": "#000099"
     },
     "directions": {
